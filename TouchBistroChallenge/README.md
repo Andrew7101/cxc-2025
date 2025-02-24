@@ -4,8 +4,14 @@ Answered Problem Statements:
 
 **Forecasting Sales Revenue**
 
-Build a model to forecast daily or weekly sales revenue with tax at the venue level.
-Explore seasonality (business date, day of week) and venue attributes (city, concept, etc.).
+File info:
+
+1. LSTM model-Final.ipynb
+   - Contains data processing, model training, fine-tuning, and model evaluation.
+3. Model Random Prediction.ipynb
+   - Contains testing model with sample data set.
+5. visualization prototype program.py
+   - Contains prototypes of visualization insights for the owners of the restaurants.
 
 
 **Effect of Operational Offsets on Sales**
