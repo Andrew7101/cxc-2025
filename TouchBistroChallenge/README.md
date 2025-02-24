@@ -2,7 +2,7 @@ TouchBistroChallenge
 
 # General Info of Answered Problem Statements:
 
-## **Forecasting Sales Revenue**
+## **3. Forecasting Sales Revenue**
 
 File info:
 
@@ -14,14 +14,14 @@ File info:
    - Contains prototypes of visualization insights for the owners of the restaurants. (grapher_compare function is only for validation)
 
 
-## **Effect of Operational Offsets on Sales**
+## **4. Effect of Operational Offsets on Sales**
 
 
 Some venues start their “business day” early or late (start_of_day_offset). 
 Explore whether this offset correlates with total daily sales, tips, or order volumes, potentially indicatingdifferent peak operational hours.
 
 
-## **Holiday or Day-of-Week Impact on Sales**
+## **7. Holiday or Day-of-Week Impact on Sales**
 
 Examine how total daily sales vary during different holidays or days of the week. 
 Also explore whether weekends generate higher net sales, tips, or gratuities compared to weekdays.
