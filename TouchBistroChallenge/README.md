@@ -8,7 +8,7 @@ Build a model to forecast daily or weekly sales revenue with tax at the venue le
 Explore seasonality (business date, day of week) and venue attributes (city, concept, etc.).
 
 
-** Effect of Operational Offsets on Sales**
+**Effect of Operational Offsets on Sales**
 
 
 Some venues start their “business day” early or late (start_of_day_offset). 
