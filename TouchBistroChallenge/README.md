@@ -8,9 +8,11 @@ Build a model to forecast daily or weekly sales revenue with tax at the venue le
 Explore seasonality (business date, day of week) and venue attributes (city, concept, etc.).
 
 
-**Customer Spend Insights**
+** Effect of Operational Offsets on Sales**
 
-Examine how order type (e.g., dinein, takeout, delivery) impacts the average bill size and tip amount.
+
+Some venues start their “business day” early or late (start_of_day_offset). 
+Explore whether this offset correlates with total daily sales, tips, or order volumes, potentially indicatingdifferent peak operational hours.
 
 
 **Holiday or Day-of-Week Impact on Sales**
