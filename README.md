@@ -42,8 +42,8 @@ Throughout the process, we gained a deeper understanding of how different factor
        \- `city`  
        \- `venue_xref_id`  
    - **Performance**:  
-     - **RMSE** ≈ 5000  
-     - **R²** ≈ 0.88  
+     - **RMSE** ≈ 5131.13  
+     - **R²** ≈ 0.89  
 
 5. **Visualization & Dashboard**  
    Finally, we developed a small dashboard that takes the most recent 4 weeks of a venue’s data as input and visualizes the *predicted revenue trend* for the following week. This provides a quick, intuitive look at future sales expectations.
