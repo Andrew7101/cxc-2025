@@ -63,7 +63,7 @@ cat_cols = [
 
 - **Model Performance**:  
   - **RMSE** ≈ 5131.13  
-  - **R²** ≈ 0.88  
+  - **R²** ≈ 0.89  
 
 We also developed a simple prototype application where a restaurant can input its past four weeks of data to get **a graph of predicted sales** for the upcoming week.
 
